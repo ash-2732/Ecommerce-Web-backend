@@ -1,0 +1,18 @@
+npm i express
+npm i colors
+npm i nodemon // you can also install it 
+npm i dotenv
+npm i mongoose
+npm i bcrypt
+npm i jsonwebtoken
+npm i concurrently // to run both frontend and backend at the same time
+npm i cors // to connect frontend and backend
+
+
+//for frontend
+npm install react-bootstrap bootstrap
+npm i react-icons
+npm i react-router-dom
+npm i react-helmet  // for SEO( search engine optimization)
+npm i react-hot-toast
+npm i axios
