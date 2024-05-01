@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ash-2732/ECOMMERCE-WEB.git

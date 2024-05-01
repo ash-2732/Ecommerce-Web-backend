@@ -20,7 +20,7 @@ const userSchema = mongoose.Schema({
         required: true
     },
     address: {
-        type: String,
+        type: {},   // this will accept any type of data
         required: true
     },
     answer: {
